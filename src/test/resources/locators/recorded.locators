@@ -1,0 +1,16 @@
+# Archivo generado por Serenity Visual Recorder
+# formato: nombre_variable:@:selector
+
+input_user_name:@://*[@id="user-name"]
+input_password:@://*[@id="password"]
+input_login_button:@://*[@id="login-button"]
+button_add_to_cart_sauce_labs_backpack:@://*[@id="add-to-cart-sauce-labs-backpack"]
+button_add_to_cart_sauce_labs_bike_light:@://*[@id="add-to-cart-sauce-labs-bike-light"]
+a_shopping_cart_link:@://*[@data-test="shopping-cart-link"]
+button_checkout:@://*[@id="checkout"]
+input_first_name:@://*[@id="first-name"]
+input_last_name:@://*[@id="last-name"]
+input_postal_code:@://*[@id="postal-code"]
+input_continue:@://*[@id="continue"]
+button_finish:@://*[@id="finish"]
+h2_complete_header:@://*[@data-test="complete-header"]

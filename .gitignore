@@ -1,0 +1,19 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+
+# Serenity reports
+target/site/
+target/serenity-reports/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.DS_Store
+
+# Logs
+*.log
+logs/
